@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Theworlddoesnotexist
+- 👀 I’m interested in random programing
+- 🌱 I’m currently learning javascript, react, node, webpack, a bit of everything
+- 💞️ I’m not looking to collaborate for now.
+- 📫 How to reach me, idk!
