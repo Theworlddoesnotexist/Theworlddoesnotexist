@@ -9,6 +9,12 @@
 
 - 📫 How to reach me **MarcosAlexis.Esc@gmail.com**
 
+<h3 align="left">Certifications:</h3>
+
+<a href="https://www.hackerrank.com/certificates/a9f8cf010b24" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="theworlddoesnote" height="30" width="40" />Javascript Basic</a>
+
+<a href="https://www.hackerrank.com/certificates/375edd79455b" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="theworlddoesnote" height="30" width="40" />Javascript Intermediate</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/theworlddoesnotexist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="theworlddoesnotexist" height="30" width="40" /></a>
@@ -24,4 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theworlddoesnotexist&show_icons=true&locale=en" alt="theworlddoesnotexist" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theworlddoesnotexist&" alt="theworlddoesnotexist" /></p>
-
