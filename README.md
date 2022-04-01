@@ -15,6 +15,8 @@
 
 <a href="https://www.hackerrank.com/certificates/375edd79455b" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="theworlddoesnote" height="30" width="40" />Javascript Intermediate</a>
 
+<a href="https://www.hackerrank.com/certificates/23e355c95aff" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="theworlddoesnote" height="30" width="40" />SQL Intermediate</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/theworlddoesnotexist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="theworlddoesnotexist" height="30" width="40" /></a>
